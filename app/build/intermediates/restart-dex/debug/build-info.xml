@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="16"
+    density="mdpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="17781857967309"
+    token="-2506110268009983633"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="288" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="60" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="17781857967309"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="C:\Users\Vilq\Desktop\audiogramy inne\LaptopCPUCompare\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
